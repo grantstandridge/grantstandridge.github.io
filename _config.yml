@@ -2,7 +2,7 @@
 title: Playbook
 timezone: America/Chicago
 collections:
-  buckets:
+  bucket:
     title: Buckets
     output: true
   posts:
