@@ -111,6 +111,10 @@ h1 + p a {
         padding-top: 8em;
         padding-bottom: 8em;
     }
+    &:hover {
+        border-color: transparent;
+        box-shadow: 0 4em 5em rgba(0, 0, 0, .1);
+    }
     border: 1px solid #fff;
     display: block;
     padding: 3em 10px;
@@ -138,10 +142,6 @@ h1 + p a {
 .grid > .bucket h2 {
     @include break-min($m){
         font-size: 2.4em;
-    }
-    &:hover {
-        border-color: transparent;
-        box-shadow: 0 4em 5em rgba(0, 0, 0, .1);
     }
     color: #6b434d;
     font-size: 1.8em;
