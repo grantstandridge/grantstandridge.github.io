@@ -6,5 +6,5 @@ layout: default
     <h1>playbook</h1>
 </hgroup>
 {% if site.posts.size > 0 %}<section class='grid'>
-{% for post in site.posts %}<a class='bucket' href='{{ post.url }}'><h2>{{ post.title }}</h2></a>{% endfor %}
+{% for post in site.posts %}<a class='bucket' href='{{ post.url }}'><h2>{{ post.title | downcase }}</h2></a>{% endfor %}
 </section>{% endif %}
