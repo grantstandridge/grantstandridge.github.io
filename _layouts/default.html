@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-<body>
+<body{% unless page.layout == 'default' %} class='sub'{% endunless %}>
 {% include header.html %}
 {{ content }}
 {% include footer.html %}
