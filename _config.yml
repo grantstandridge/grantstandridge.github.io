@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  buckets:
+    title: Buckets
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -14,10 +17,13 @@ defaults:
     type: posts
   values:
     layout: post
+    permalink: "/post/:title/"
+- scope:
+    path: ''
+    type: buckets
+  values:
+    layout: post
     permalink: "/:title/"
-    format:
-    - default
-    - schedule
 - scope:
     path: ''
     type: pages
