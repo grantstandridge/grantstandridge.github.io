@@ -5,7 +5,8 @@ permalink: friday-may-19
 layout: schedule
 ---
 
-* Hi
+* 
+Hi
   * Eh?
   * Bye
 * Yes
