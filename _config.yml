@@ -2,11 +2,11 @@
 title: Playbook
 timezone: America/Chicago
 collections:
-  posts:
-    title: Posts
-    output: true
   buckets:
     title: Buckets
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads
