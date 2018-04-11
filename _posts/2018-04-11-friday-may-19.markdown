@@ -6,7 +6,7 @@ layout: schedule
 ---
 
 * Hi
-
-  *Eh?
-
-* Bye
+ * Eh?
+ * Bye
+* Yes
+* No
