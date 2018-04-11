@@ -10,17 +10,19 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ""
-    type: "posts"
+    path: ''
+    type: posts
   values:
-    layout: "post"
+    layout: post
     permalink: "/:title/"
-    format: ["default", "schedule"]
+    format:
+    - default
+    - schedule
 - scope:
-    path: ""
-    type: "pages"
+    path: ''
+    type: pages
   values:
-    layout: "page"
+    layout: page
 permalink: pretty
 sass:
   style: compressed
