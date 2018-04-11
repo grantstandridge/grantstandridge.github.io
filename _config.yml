@@ -16,12 +16,10 @@ defaults:
     layout: post
     permalink: "/:title/"
 - scope:
-    path: Content Type
+    path: "Content Type"
     type: posts
   values:
-    types:
-    - default
-    - schedule
+    types: ["default", "schedule"]
 - scope:
     path: ''
     type: pages
