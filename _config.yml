@@ -13,15 +13,8 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: post
+    layout: general
     permalink: "/:title/"
-- scope:
-    path: Content Type
-    type: posts
-  values:
-    types:
-    - default
-    - schedule
 - scope:
     path: ''
     type: pages
