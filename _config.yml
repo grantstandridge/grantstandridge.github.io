@@ -29,6 +29,10 @@ defaults:
   values:
     layout: general
     permalink: "/:title/"
+    Schedule:
+    - Parent: 
+      Child:
+      -
 permalink: pretty
 sass:
   style: compressed
