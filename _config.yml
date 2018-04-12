@@ -5,9 +5,6 @@ collections:
   buckets:
     title: Buckets
     output: true
-    Field name:
-      Itinerary:
-      - Parent: 
   posts:
     title: Posts
     output: true
@@ -20,12 +17,18 @@ defaults:
     type: posts
   values:
     layout: general
-    permalink: "/:title/"
+    permalink: "/posts/:title/"
 - scope:
     path: ''
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: buckets
+  values:
+    layout: general
+    permalink: "/:title/"
 permalink: pretty
 sass:
   style: compressed
