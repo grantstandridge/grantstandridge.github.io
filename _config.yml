@@ -31,7 +31,7 @@ defaults:
     permalink: "/:title/"
     Schedule:
     - Parent: 
-      Child:
+      Children:
       - 
 permalink: pretty
 sass:
