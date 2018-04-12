@@ -5,6 +5,9 @@ collections:
   buckets:
     title: Buckets
     output: true
+    Field name:
+      Itinerary:
+      - Parent: 
   posts:
     title: Posts
     output: true
