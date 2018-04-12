@@ -7,9 +7,8 @@ layout: default
     <p><a href='/'>{{ page.title }}&nbsp;<span>&times;</span></a></p>
 </hgroup>
 <section class='body single'>
-    {{ content }}
-    {% if page.schedule.size > 0 %}<ul class='parent list'>
-    {% for item in page.schedule %}<li>
+    {% if page.Schedule.size > 0 %}<ul class='parent list'>
+    {% for item in page.Schedule %}<li>
     <p>{{ item.Parent }}</p>
     {% if item.Children.size > 0 %}<ul class='child list'>
     {% for child in item.Children %}<li>{{ child }}</li>{% endfor %}
