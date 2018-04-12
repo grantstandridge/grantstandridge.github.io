@@ -8,4 +8,12 @@ layout: default
 </hgroup>
 <section class='body single'>
     {{ content }}
+    {% if page.schedule.size > 0 %}<ul class='parent list'>
+    {% for item in page.schedule %}<li>
+    <p>{{ item.Parent }}</p>
+    {% if item.Children.size > 0 %}<ul class='child list'>
+    {% for child in item.Children %}<li>{{ child }}</li>{% endfor %}
+    </ul>{% endif %}
+    </li>{% endfor %}
+    </ul>{% endif %}
 </section>
