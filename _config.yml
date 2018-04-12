@@ -32,7 +32,7 @@ defaults:
     Schedule:
     - Parent: 
       Child:
-      -
+      - 
 permalink: pretty
 sass:
   style: compressed
