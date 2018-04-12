@@ -33,6 +33,15 @@ defaults:
     - Parent: 
       Children:
       - 
+    General:
+      Column 1:
+        Heading: 
+        List:
+        - 
+      Column 2:
+        Heading: 
+        List:
+        - 
 permalink: pretty
 sass:
   style: compressed
