@@ -7,5 +7,7 @@ layout: default
     <p><a href='/'>{{ page.title }}&nbsp;<span>&times;</span></a></p>
 </hgroup>
 <section class='body'>
-    
+    {% if page.General["Column 1"].Heading.size > 0 or page.General["Column 1"].List.size > 0 %}
+    hi
+    {% endif %}
 </section>
