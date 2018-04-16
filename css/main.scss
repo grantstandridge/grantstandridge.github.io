@@ -85,6 +85,22 @@ h1 + p a {
     }
     text-decoration: none;
 }
+.lede {
+    max-width: 120em;
+    margin: 7.5em auto 0;
+    padding: 0 1em;
+}
+.lede p {
+    @include break-min($m){
+	font-size: 2.4em;
+    }
+    font-style: italic;
+    font-size: 1.8em;
+    margin: 0;
+}
+.lede p + p {
+    margin-top: 1.5em;
+}
 .grid {
     @include break-min($m){
         display: -webkit-box;
