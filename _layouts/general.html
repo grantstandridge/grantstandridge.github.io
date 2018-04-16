@@ -10,5 +10,8 @@ layout: default
     {% if page.General["Column 1"].Heading != "" or page.General["Column 1"].List.size > 0 %}<section class="section">
     <h2>{% if page.General["Column 1"].Heading != "" %}{{ page.General["Column 1"].Heading }}{% else %}Notes{% endif %}</h2>
     {% if page.General["Column 1"].List.size > 0 %}<ul class="items">{% for item in page.General["Column 1"].List %}<li>{{ item }}</li>{% endfor %}</ul>{% endif %}
+    </section>{% endif %}{% if page.General["Column 2"].Heading != "" or page.General["Column 2"].List.size > 0 %}<section class="section">
+    <h2>{% if page.General["Column 2"].Heading != "" %}{{ page.General["Column 2"].Heading }}{% else %}Notes{% endif %}</h2>
+    {% if page.General["Column 2"].List.size > 0 %}<ul class="items">{% for item in page.General["Column 2"].List %}<li>{{ item }}</li>{% endfor %}</ul>{% endif %}
     </section>{% endif %}
 </section>
