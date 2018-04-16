@@ -54,5 +54,6 @@ Schedule:
   - 
   - 
   - 
+layout: schedule
 ---
 
