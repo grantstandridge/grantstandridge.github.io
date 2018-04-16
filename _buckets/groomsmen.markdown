@@ -3,7 +3,7 @@ title: Groomsmen
 date: 2018-04-12 14:58:00 -05:00
 General:
   Column 1:
-    Contact(s): 
+    Heading: Contact(s)
     List:
     - One
     - Two
