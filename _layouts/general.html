@@ -7,6 +7,7 @@ layout: default
     <h1>playbook</h1>
     <p><a href='/'>{{ page.title }}&nbsp;<span>&times;</span></a></p>
 </hgroup>
+{% if content != "" %}<div class='lede'>{{ content }}</div>{% endif %}
 <section class='body'>
     {% if page.General["Column 1"].Heading != "" or page.General["Column 1"].List.size > 0 %}<section class="section">
     <h2>{% if page.General["Column 1"].Heading != "" %}{{ page.General["Column 1"].Heading }}{% else %}Notes{% endif %}</h2>
