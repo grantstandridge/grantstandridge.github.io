@@ -23,7 +23,7 @@ Schedule:
   - "10:30am - Bridal Party Meets @ Southern Hills to get ready\n<br> <a href='https://goo.gl/maps/FoUWBZZFjXU2'
     target='_blank'> 2636 E 61st St, Tulsa, OK 74136</a>\n<br>- When You Arrive -
     You can tell the guy at the gate that you’re there to get ready for the wedding,
-    and he should let you in. \n<br>- What to Wear - Southern Hills has a dress code
+    and he should let you in. \n<br>- What to Wear? Southern Hills has a dress code
     we have to follow until we arrive in the ladies locker room. I’d recommend wearing
     jeans & a cute top. Once in the locker room, we can be as comfy as we want. \U0001F60A\n<br>-
     Click <a href='http://playbook.turnhertostandridge.com/hair-slash-makeup-itinerary/'>here</a>
