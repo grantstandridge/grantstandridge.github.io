@@ -13,8 +13,11 @@ Schedule:
     we'll have the rest of the day off afterwards. "
 - Parent: 'Saturday, May 19th '
   Children:
-  - '10:00am - Ceremony Rehearsal @ the Glass Chapel '
-  - 
+  - "10:00am - Ceremony Rehearsal @ the Glass Chapel \n<br>- Address - 1401 West Washington
+    St. S, Broken Arrow, OK 74012"
+  - '10:30am - Head to the Rehearsal Brunch downtown '
+  - "11:00am - Rehearsal Brunch @ 624 Kitchen \n<br>- Address - 624 S Boston Ave,
+    Tulsa, OK 74119"
 layout: schedule
 ---
 
