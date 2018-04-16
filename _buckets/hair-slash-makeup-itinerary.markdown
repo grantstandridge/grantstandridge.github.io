@@ -8,8 +8,6 @@ Schedule:
     hair after she’s done with mine. \n\nNatalie’s sister, Sarah, will be doing all
     of the Bridesmaids’ makeup. Please make sure to have your foundation on already,
     and then Sarah will handle the rest. \U0001F60A"
-  Children:
-  - 
 - Parent: '10:30am - 11:30am '
   Children:
   - 'Brittany G. does Callie''s Hair '
@@ -35,25 +33,19 @@ Schedule:
   - Abby gets hair curled
   - Sarah does Alyssa's makeup
   - Brittany styles Brittney's hair
-  - 
 - Parent: 12:30pm - 1:00pm
   Children:
   - Alyssa gets hair curled
   - Sarah doe Laney's makeup
   - Brittany styles Abby's hair
-  - 
 - Parent: 1:00pm - 1:30pm
   Children:
   - Laney gets hair curled
   - Sarah does Brittney's makeup
   - Brittany styles Alyssa's hair
-  - 
 - Parent: 1:30pm - 2:00pm
   Children:
   - Brittany styles Laney's hair
-  - 
-  - 
-  - 
 layout: schedule
 ---
 
