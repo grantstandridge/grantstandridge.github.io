@@ -29,8 +29,22 @@ Schedule:
     here to see the itinerary for getting ready! \n<br>- You will need to leave your
     car at Southern Hills, and we will carpool to the chapel together! (A few of the
     Bridesmaids' moms will be carpooling us). "
-  - 
-  - 
+  - "2:00pm - Bridal Party carpools to the Glass Chapel \n<br>- In Jackie's Car -
+    Kayleigh & Brittney\n<br>- In Olivia's Car - Natalie, Alyssa & Abby\n<br>- In
+    Rhonda's Car - Laney & Callie "
+  - "3:30pm - Callie & Grant's First Look \n<br>- This should only take a few minutes. "
+  - '3:40pm - Wedding Party Takes Pictures '
+  - 4:30pm - Last minute touch-ups before Ceremony
+  - '5:00pm - Ceremony '
+  - 5:30pm - Pictures with Family
+  - "6:00pm - Take Limo to Southern Hills\n<br>- We'd prefer all Bridesmaids & Groomsmen
+    ride in the limo so that we can all stay together when we arrive at Southern Hills
+    for the introduction. \U0001F60A\n<br>- We have 14 in the wedding party, but our
+    limo seats 22. So if you’d like for your spouse to ride in the limo also, just
+    let us know so we know who we’re counting for."
+  - "6:30pm - Reception @ Southern Hills\n<br>- We will do an introduction to the
+    Reception when we first arrive. Then we’ll eat, dance, and have an amazing night! "
+  - 9:30pm - Callie & Grant's Send-Off
 layout: schedule
 ---
 
