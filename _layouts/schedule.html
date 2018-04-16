@@ -7,6 +7,7 @@ layout: default
     <h1>playbook</h1>
     <p><a href='/'>{{ page.title }}&nbsp;<span>&times;</span></a></p>
 </hgroup>
+{% if content != "" %}<div class='lede'>{{ content }}</div>{% endif %}
 <section class='body single'>
     {% if page.Schedule.size > 0 %}<ul class='parent list'>
     {% for item in page.Schedule %}<li>
