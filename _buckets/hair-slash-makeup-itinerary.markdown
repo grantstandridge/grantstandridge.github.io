@@ -8,8 +8,6 @@ Schedule:
     hair after she’s done with mine. \n\nNatalie’s sister, Sarah, will be doing all
     of the Bridesmaids’ makeup. Please make sure to have your foundation on already,
     and then Sarah will handle the rest. \U0001F60A"
-  Children:
-  - 
 - Parent: 10:30am - 11:00am
   Children:
   - Kayleigh gets hair curled
