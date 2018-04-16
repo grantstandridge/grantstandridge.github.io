@@ -26,9 +26,10 @@ Schedule:
     \n<br>- What to Wear - Southern Hills has a dress code we have to follow until
     we arrive in the ladies locker room. I’d recommend wearing jeans & a cute top.
     Once in the locker room, we can be as comfy as we want. \U0001F60A\n<br>- Click
-    here to see the itinerary for getting ready! \n<br>- You will need to leave your
-    car at Southern Hills, and we will carpool to the chapel together! (A few of the
-    Bridesmaids' moms will be carpooling us). "
+    <a href='http://playbook.turnhertostandridge.com/hair-slash-makeup-itinerary/'>here</a>
+    to see the itinerary for getting ready! \n<br>- You will need to leave your car
+    at Southern Hills, and we will carpool to the chapel together! (A few of the Bridesmaids'
+    moms will be carpooling us). "
   - "2:00pm - Bridal Party carpools to the Glass Chapel \n<br>- In Jackie's Car -
     Kayleigh & Brittney\n<br>- In Olivia's Car - Natalie, Alyssa & Abby\n<br>- In
     Rhonda's Car - Laney & Callie "
