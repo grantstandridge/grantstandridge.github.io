@@ -30,7 +30,7 @@ Schedule:
 - Parent: 12:30pm - 1:00pm
   Children:
   - Alyssa gets hair curled
-  - Sarah doe Laney's makeup
+  - Sarah does Laney's makeup
   - Brittany styles Abby's hair
 - Parent: 1:00pm - 1:30pm
   Children:
