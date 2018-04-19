@@ -18,6 +18,7 @@ Schedule:
   - '10:30am - Head to the Rehearsal Brunch downtown '
   - "11:00am - Rehearsal Brunch @ 624 Kitchen \n<br> <a href='https://goo.gl/maps/eKDdaWFsvKo'
     target='_blank'> 624 S Boston Ave, Tulsa, OK 74119</a>"
+  - 'We''ll have the rest of the day off again. :) '
 - Parent: Sunday, May 20th
   Children:
   - "10:30am - Bridal Party Meets @ Southern Hills to get ready\n<br> <a href='https://goo.gl/maps/FoUWBZZFjXU2'
