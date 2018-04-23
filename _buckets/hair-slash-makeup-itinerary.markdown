@@ -2,6 +2,12 @@
 title: Hair / Makeup Itinerary
 date: 2018-04-15 19:19:00 -05:00
 Schedule:
+- Parent: 10:30am - 11:30am
+  Children:
+  - Brittany styles Callie's hair
+- Parent: 12:00pm - 1:00pm
+  Children:
+  - Chelsea does Callie's makeup
 - Parent: 10:30am - 11:00am
   Children:
   - Kayleigh gets hair curled
