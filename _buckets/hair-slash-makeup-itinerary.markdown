@@ -2,47 +2,47 @@
 title: Hair / Makeup Itinerary
 date: 2018-04-15 19:19:00 -05:00
 Schedule:
-- Parent: 10:30am - 11:30am
+- Parent: 10:00am - 10:30am
   Children:
-  - Brittany styles Callie's hair
-- Parent: 12:00pm - 1:00pm
-  Children:
-  - Chelsea does Callie's makeup
+  - Brittany curls Kayleigh & Natalie's hair
+  - Brittany's friend curls Laney's hair
 - Parent: 10:30am - 11:00am
   Children:
-  - Kayleigh gets hair curled
-  - 'Sarah does Natalie''s makeup '
+  - Brittany styles Kayleigh & Natalie's hair
+  - Abby gets hair curled
+  - Sarah does Laney's makeup
 - Parent: 11:00am - 11:30am
   Children:
-  - Natalie gets hair curled
-  - 'Sarah does Kayleigh''s makeup '
+  - Brittany styles Laney's hair
+  - Alyssa gets hair curled
+  - Sarah does Abby's makeup
 - Parent: 11:30am - 12:00pm
   Children:
-  - 'Southern providing lunch in the locker room (wraps / cheese & crackers) '
+  - Brittany styles Abby's hair
   - Brittney gets hair curled
-  - Sarah does Abby's makeup
-  - Brittany styles Kayleigh & Natalie's hair
+  - Sarah does Alyssa's makeup
+  - Chelsea starts Callie's makeup
 - Parent: 12:00pm - 12:30pm
   Children:
-  - Abby gets hair curled
-  - Sarah does Alyssa's makeup
-  - Brittany styles Brittney's hair
+  - Brittany styles Alyssa's hair
+  - Sarah does Brittney's makeup
+  - Chelsea finishes Callie's makeup
 - Parent: 12:30pm - 1:00pm
   Children:
-  - Alyssa gets hair curled
-  - Sarah does Laney's makeup
-  - Brittany styles Abby's hair
-- Parent: 1:00pm - 1:30pm
+  - 'Southern providing lunch in the locker room (wraps / cheese & crackers) '
+  - Brittany styles Brittney's hair
+  - Sarah does Kayleigh's makeup
+- Parent: 1:00pm - 2:00pm
   Children:
-  - Laney gets hair curled
-  - Sarah does Brittney's makeup
-  - Brittany styles Alyssa's hair
-- Parent: 1:30pm - 2:00pm
+  - Brittany does Callie's hair
+  - Sarah does Natalie's makeup
+  - Last minute touch-ups
+- Parent: 2:00pm - 2:30pm
   Children:
-  - Brittany styles Laney's hair
+  - Drive to the Chapel :)
 layout: schedule
 ---
 
-My hair lady (Brittany) will start on my hair first. She’s bringing one of her co-workers with her. Her co-worker will curl all of the Bridesmaids’ hair (since that’s what takes up the most time), and then Brittany will style everyones’ hair after she’s done with mine. 
+My hair lady (Brittany) will be styling everyone's hair. She’s bringing one of her co-workers with her. Her co-worker will curl all of the Bridesmaids’ hair (since that’s what takes up the most time), and then Brittany will style everyones’ hair after it's curled. Brittany will do my hair last. 
 
 Natalie’s sister, Sarah, will be doing all of the Bridesmaids’ makeup. Please make sure to have your foundation on already, and then Sarah will handle the rest. 😊
