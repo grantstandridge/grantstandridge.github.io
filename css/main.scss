@@ -235,6 +235,16 @@ h1 + p a {
             margin-top: .5em;
         }
     }
+    .items {
+	svg:first-child {
+	    width: .75em;
+	    height: .75em;
+	    margin-right: .25em;
+	}
+	svg path {
+	    fill: #6b434d;
+	}
+    }
     .child {
         li {
             &:before {

@@ -6,12 +6,24 @@ General:
     Heading: Contact & Location Deetz
     List:
     - Grant's mom, Kay<br>19182325210
-    - Jackie C. (any day-of questions)<br>1.918.520.3179
-    - "<a href='https://goo.gl/maps/JojmvNgWkB92' target='_blank'>624 Kitchen</a><br>1.918.779.6333"
-    - "<a href='https://goo.gl/maps/H4DySjUc8zN2' target='_blank'>The Glass Chapel</a>
-      (ceremony)<br>1.918.455.0888"
-    - "<a href='https://goo.gl/maps/2aEL8C9W7Dn target='_blank'>Southern Hills Country
-      Club</a><br>1.918.492.3351"
+    - Jackie C. (any day-of questions)<br>19185203179
+    - <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M172.268
+      501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192
+      192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192
+      272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"/></svg><a
+      href='https://goo.gl/maps/JojmvNgWkB92' target='_blank'>624 Kitchen</a><br>19187796333
+    - <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M172.268
+      501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192
+      192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192
+      272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"/></svg><a
+      href='https://goo.gl/maps/H4DySjUc8zN2' target='_blank'>The Glass Chapel</a>
+      (ceremony)<br>19184550888
+    - <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M172.268
+      501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192
+      192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192
+      272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"/></svg><a
+      href='https://goo.gl/maps/2aEL8C9W7Dn target='_blank'>Southern Hills Country
+      Club</a><br>19184923351
   Column 2:
     Heading: Schedule
     List:
