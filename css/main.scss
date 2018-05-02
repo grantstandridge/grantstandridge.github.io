@@ -235,9 +235,9 @@ h1 + p a {
             margin-top: .5em;
         }
     }
-    .items li a:last-child {
+    .items li a[href^='tel'] {
 	text-decoration: none !important;
-	color: #222;
+	color: #222 !important;
     }
     .items {
 	svg:first-child {
