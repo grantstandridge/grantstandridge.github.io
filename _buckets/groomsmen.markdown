@@ -27,6 +27,10 @@ General:
       only speeches will be made by the maid-of-honor, best man, Callie & I, and my
       parents. Brunch will likely not last three hours, but we have it reserved that
       long if it does"
+    - "<strong>Saturday 5/19 after 2p</strong><br>No plans! Because we're doing brunch
+      and the ceremony isn't until Sunday night, we have the rest of Saturday open.
+      Callie and I are grabbing dinner around 7 and we'll be out until probably 10
+      but other than that, I'm not obligated to anything else"
 ---
 
 Ideally, I'd love for everyone to have their tuxes picked up before the end of Friday the 18<sup>th</sup> (unless Men's Wearhouse has told you otherwise…) They should be paid for at that point, and I will reimburse you for the $20 you probably had to put down for measurements.
