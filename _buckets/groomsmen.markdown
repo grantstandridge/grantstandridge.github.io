@@ -13,9 +13,13 @@ General:
     - "<a href='https://goo.gl/maps/2aEL8C9W7Dn target='_blank'>Southern Hills Country
       Club</a><br>1.918.492.3351"
   Column 2:
-    Heading: May 18 - 20 Notes
+    Heading: Schedule
     List:
-    - hi
-    - bye
+    - "<strong>Friday 5/18</strong><br>Nothing scheduled for this day! I'll be sleeping
+      in Broken Arrow at the Turners' so Callie and I can ride to the rehearsal at
+      The Glass Chapel together"
+    - "<strong>Saturday 5/19 10a</strong><br>Rehearsal begins at The Glass Chapel.
+      It's a little more than 15 minutes from midtown, in north Broken Arrow"
 ---
 
+Ideally, I'd love for everyone to have their tuxes picked up before the end of Friday the 18<sup>th</sup> (unless Men's Wearhouse has told you otherwise…) They should be paid for at that point, and I will reimburse you for the $20 you probably had to put down for measurements.
