@@ -43,8 +43,8 @@ General:
       and we all carpooled together because the other dudes will have wives who (I
       think?) will be driving themselves. The reason we're driving to Southern Hills
       is so at the end of the night your cars are there instead of the chapel. Once
-      we seven get to the country club around 1:45 - 2, I'll arrange for someone to
-      take us from the club to the chapel"
+      we seven get to the country club around 2:15 - 2:30, I'll arrange for someone
+      to take us from the club to the chapel"
     - "<strong>Sunday 5/20 3p</strong><br>The idea is for all of us to be at the chapel
       no later than this time. We have a room (small) to hang out in until wedding
       party pictures"
