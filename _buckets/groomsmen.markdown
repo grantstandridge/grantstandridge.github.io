@@ -5,9 +5,9 @@ General:
   Column 1:
     Heading: Contact & Location Deetz
     List:
-    - Grant's mom, Kay<br>1918&zwnj;2325210
-    - Jackie C. (any day-of questions)<br>1918&zwnj;5203179
-    - Asher Griffin (best man)<br>1405&zwnj;9902625
+    - Grant's mom, Kay<br>19182325210
+    - Jackie C. (any day-of questions)<br>19185203179
+    - Asher Griffin (best man)<br>14059902625
     - Matt Winzeler<br>14053177223
     - Blake Zimmerman<br>19186336996
     - Brandon Querin<br>15598597915
