@@ -38,16 +38,31 @@ General:
     - "<strong>Sunday 5/20 noon</strong><br>Let's plan on being at my house by this
       time so we can get ready without having to rush around. &ldquo;Getting ready&rdquo;
       shouldn't take that long but that should give us more than enough time…"
-    - "<strong>Sunday 5/20 1:30p</strong><br>We'll leave as a group from my house
-      and go to Southern Hills. It would be ideal if Brandon, Jentre, and Asher drove,
+    - "<strong>Sunday 5/20 2p</strong><br>We'll leave as a group from my house and
+      go to Southern Hills. It would be ideal if Brandon, Jentre, and Asher drove,
       and we all carpooled together because the other dudes will have wives who (I
       think?) will be driving themselves. The reason we're driving to Southern Hills
       is so at the end of the night your cars are there instead of the chapel. Once
-      we seven get to the country club around 1:45 - 2, I'll have an Uber Black car
+      we seven get to the country club around 1:45 - 2, I'll arrange for someone to
       take us from the club to the chapel"
-    - "<strong>Sunday 5/20 2:30p</strong><br>The idea is for all of us to be at the
-      chapel no later than this time. We have a room to hang out in until pictures
-      @ 4"
+    - "<strong>Sunday 5/20 3p</strong><br>The idea is for all of us to be at the chapel
+      no later than this time. We have a room (small) to hang out in until wedding
+      party pictures"
+    - "<strong>Sunday 5/20 3:30p</strong><br>Callie's and my first look outside the
+      chapel"
+    - "<strong>Sunday 5/20 3:40p</strong><br>Wedding party (only) takes pictures until
+      no later than 4:15"
+    - "<strong>Sunday 5/20 5p</strong><br>Ceremony begins"
+    - "<strong>Sunday 5/20 5:30p</strong><br>Pictures with families"
+    - "<strong>Sunday 5/20 6p</strong><br>Limo is taking entire wedding party to Southern
+      Hills. Preference is for all bridesmaids and groomsmen to ride in the limo so
+      that we all arrive together for the introduction… There are 14 total in the
+      wedding party but our limo seats up to 22. So if your spouse would like to ride
+      with us, that's fine! Just give us a heads up so we can account for them"
+    - "<strong>Sunday 5/20 6:30p</strong><br>Reception at Southern Hills kicks off
+      with an introduction of the wedding party upon arrival. Then we'll eat, twerk,
+      and have an awesome night with friends"
+    - "<strong>Sunday 5/20 9:30p</strong><br>Callie's and my send-off in the limo"
 ---
 
 Ideally, I'd love for everyone to have their tuxes picked up before the end of Friday the 18<sup>th</sup> (unless Men's Wearhouse has told you otherwise…) They should be paid for at that point, and I will reimburse you for the $20 you probably had to put down for measurements.
