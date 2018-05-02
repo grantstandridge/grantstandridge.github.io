@@ -6,12 +6,12 @@ General:
     Heading: Contact & Location Deetz
     List:
     - Grant's mom, Kay<br>19182325210
-    - Jackie C. (any day-of questions)<br>1.918.520.3179
-    - "<a href='https://goo.gl/maps/JojmvNgWkB92' target='_blank'>624 Kitchen</a><br>1.918.779.6333"
+    - Jackie C. (any day-of questions)<br>19185203179
+    - "<a href='https://goo.gl/maps/JojmvNgWkB92' target='_blank'>624 Kitchen</a><br>19187796333"
     - "<a href='https://goo.gl/maps/H4DySjUc8zN2' target='_blank'>The Glass Chapel</a>
-      (ceremony)<br>1.918.455.0888"
+      (ceremony)<br>19184550888"
     - "<a href='https://goo.gl/maps/2aEL8C9W7Dn target='_blank'>Southern Hills Country
-      Club</a><br>1.918.492.3351"
+      Club</a><br>19184923351"
   Column 2:
     Heading: Schedule
     List:
