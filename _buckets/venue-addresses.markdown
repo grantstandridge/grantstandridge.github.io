@@ -14,5 +14,6 @@ Schedule:
   Children:
   - 2636 E 61st St. Tulsa, OK 74136
   - 918-492-3351
+layout: schedule
 ---
 

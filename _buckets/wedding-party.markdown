@@ -22,5 +22,6 @@ Schedule:
   - 'We will have a table for the Wedding Party, and your spouses will be at our table
     also :) '
   - '9:30pm - Grant & Callie''s Send Off '
+layout: schedule
 ---
 
