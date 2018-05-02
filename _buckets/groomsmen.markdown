@@ -43,7 +43,11 @@ General:
       and we all carpooled together because the other dudes will have wives who (I
       think?) will be driving themselves. The reason we're driving to Southern Hills
       is so at the end of the night your cars are there instead of the chapel. Once
-      we seven get to the country club around 1:45 - 2, I'll "
+      we seven get to the country club around 1:45 - 2, I'll have an Uber Black car
+      take us from the club to the chapel"
+    - "<strong>Sunday 5/20 2:30p</strong><br>The idea is for all of us to be at the
+      chapel no later than this time. We have a room to hang out in until pictures
+      @ 4"
 ---
 
 Ideally, I'd love for everyone to have their tuxes picked up before the end of Friday the 18<sup>th</sup> (unless Men's Wearhouse has told you otherwise…) They should be paid for at that point, and I will reimburse you for the $20 you probably had to put down for measurements.
