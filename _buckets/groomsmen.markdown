@@ -20,6 +20,8 @@ General:
       The Glass Chapel together"
     - "<strong>Saturday 5/19 10a</strong><br>Rehearsal begins at The Glass Chapel.
       It's a little more than 15 minutes from midtown, in north Broken Arrow"
+    - "<strong>Saturday 5/19 11a</strong><br>Rehearsal Brunch @ 624 Kitchen in downtown!
+      Brunch buffet menu can be found <a href='' target='_blank'>here</a>."
 ---
 
 Ideally, I'd love for everyone to have their tuxes picked up before the end of Friday the 18<sup>th</sup> (unless Men's Wearhouse has told you otherwise…) They should be paid for at that point, and I will reimburse you for the $20 you probably had to put down for measurements.
