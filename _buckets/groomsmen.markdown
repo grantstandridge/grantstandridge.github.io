@@ -31,6 +31,19 @@ General:
       and the ceremony isn't until Sunday night, we have the rest of Saturday open.
       Callie and I are grabbing dinner around 7 and we'll be out until probably 10
       but other than that, I'm not obligated to anything else"
+    - "<strong>Sunday 5/20 10a</strong><br>I'm thinking breakfast – be it donuts,
+      bacon & eggs, or whatever – would be fun. I'll probably eat only breakfast until
+      the reception later in the evening because there will be <em>so much</em> food
+      there"
+    - "<strong>Sunday 5/20 noon</strong><br>Let's plan on being at my house by this
+      time so we can get ready without having to rush around. &ldquo;Getting ready&rdquo;
+      shouldn't take that long but that should give us more than enough time…"
+    - "<strong>Sunday 5/20 1:30p</strong><br>We'll leave as a group from my house
+      and go to Southern Hills. It would be ideal if Brandon, Jentre, and Asher drove,
+      and we all carpooled together because the other dudes will have wives who (I
+      think?) will be driving themselves. The reason we're driving to Southern Hills
+      is so at the end of the night your cars are there instead of the chapel. Once
+      we seven get to the country club around 1:45 - 2, I'll "
 ---
 
 Ideally, I'd love for everyone to have their tuxes picked up before the end of Friday the 18<sup>th</sup> (unless Men's Wearhouse has told you otherwise…) They should be paid for at that point, and I will reimburse you for the $20 you probably had to put down for measurements.
