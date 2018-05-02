@@ -12,5 +12,10 @@ General:
       (ceremony)<br>1.918.455.0888"
     - "<a href='https://goo.gl/maps/2aEL8C9W7Dn target='_blank'>Southern Hills Country
       Club</a><br>1.918.492.3351"
+  Column 2:
+    Heading: May 18 - 20 Notes
+    List:
+    - hi
+    - bye
 ---
 
