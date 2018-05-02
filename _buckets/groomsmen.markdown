@@ -5,30 +5,32 @@ General:
   Column 1:
     Heading: Contact & Location Deetz
     List:
-    - Grant's mom, Kay<br>1918&zwnj;2325210
-    - Jackie C. (any day-of questions)<br>1918&zwnj;5203179
-    - Asher Griffin (best man)<br>1405&zwnj;9902625
-    - Matt Winzeler<br>14053177223
-    - Blake Zimmerman<br>19186336996
-    - Brandon Querin<br>15598597915
-    - Austyn Schmidt<br>19188639368
-    - Jentre Olsen<br>16056801050
+    - Grant's mom, Kay<br><a href='tel:+19182325210'>918.232.5210</a>
+    - Jackie C. (any day-of questions)<br><a href='tel:+19185203179'>918.520.3179</a>
+    - Asher Griffin (best man)<br><a href='tel:+14059902625'>405.990.2625</a>
+    - Matt Winzeler<br><a href='tel:+14053177223'>405.317.7223</a>
+    - Blake Zimmerman<br><a href='tel:+19186336996'>918.633.6996</a>
+    - Brandon Querin<br><a href='tel:+15598597915'>559.859.7915</a>
+    - Austyn Schmidt<br><a href='tel:+19188639368'>918.863.9368
+    - Jentre Olsen<br><a href='tel:+16056801050'>605.680.1050</a></a>
     - <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M172.268
       501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192
       192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192
       272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"/></svg><a
-      href='https://goo.gl/maps/JojmvNgWkB92' target='_blank'>624 Kitchen</a><br>19187796333
+      href='https://goo.gl/maps/JojmvNgWkB92' target='_blank'>624 Kitchen</a><br><a
+      href='tel:+19187796333'>918.779.6333</a>
     - <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M172.268
       501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192
       192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192
       272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"/></svg><a
-      href='https://goo.gl/maps/H4DySjUc8zN2' target='_blank'>The Glass Chapel</a><br>19184550888
+      href='https://goo.gl/maps/H4DySjUc8zN2' target='_blank'>The Glass Chapel</a><br><a
+      href='tel:+19184550888'>918.455.0888</a>
     - <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M172.268
       501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192
       192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192
       272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"/></svg><a
       href='https://goo.gl/maps/2aEL8C9W7Dn target='_blank'>Southern Hills Country
-      Club</a><br>19184923351
+      Club</a><br><a href='tel:+19184923351'>918.492.3351</a>
   Column 2:
     Heading: Schedule
     List:
