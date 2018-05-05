@@ -101,6 +101,14 @@ h1 + p a {
 .lede p + p {
     margin-top: 1.5em;
 }
+.lede p > a {
+    color: #6b434d;
+}
+.lede p > a:hover {
+    color: #d4d3d1;
+    background-color: #6b434d;
+    text-decoration: none;
+}
 .grid {
     @include break-min($m){
         display: -webkit-box;
