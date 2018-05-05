@@ -86,4 +86,4 @@ General:
 
 Ideally, I'd love for everyone to have their tuxes picked up before the end of Friday the 18<sup>th</sup> (unless Men's Wearhouse has told you otherwise…) They should be paid for at that point, and I will reimburse you for the $20 you probably had to put down for measurements.
 
-Southern Hills can be confusing to get around if you haven't been before or if you haven't been in a long time. Here is a map of the clubhouse from above that will hopefully help you find your way around if you're on your own.
+Southern Hills can be confusing to get around if you haven't been before or if you haven't been in a long time. [Here is a map](/uploads/SouthernHills-narrow.png) of the clubhouse from above that will hopefully help you find your way around if you're on your own. If you're not sure where to actually enter the country club property, [this image](/uploads/SouthernHills-wide.png) should help. Feel free to pass these images along if anyone asks you for help, too.
