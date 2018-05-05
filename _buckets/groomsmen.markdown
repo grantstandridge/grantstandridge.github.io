@@ -49,7 +49,8 @@ General:
     - "<strong>Saturday 5/19 after 2p</strong><br>No plans! Because we're doing brunch
       and the ceremony isn't until Sunday night, we have the rest of Saturday open.
       Callie and I are grabbing dinner around 7 and we'll be out until probably 10
-      but other than that, I'm not obligated to anything else"
+      but other than that, I'm not obligated to anything else, and I'd be down for
+      chilling out, doing something fun, or whatever"
     - "<strong>Sunday 5/20 10a</strong><br>I'm thinking breakfast – be it donuts,
       bacon & eggs, or whatever – would be fun. I'll probably eat only breakfast until
       the reception later in the evening because there will be <em>so much</em> food
