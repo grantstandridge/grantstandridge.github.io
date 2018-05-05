@@ -41,11 +41,11 @@ General:
       It's a little more than 15 minutes from midtown, in north Broken Arrow"
     - "<strong>Saturday 5/19 11a - 2p</strong><br>Rehearsal Brunch @ 624 Kitchen in
       downtown! Brunch buffet menu can be found <a href='/uploads/menu--buffet.jpg'
-      target='_blank'>here</a>. It's going to be <em>good</em>. We've elected to not
-      do too many toasts or speeches because it can unintentionally drag on, SO the
-      only speeches will be made by the maid-of-honor, best man, Callie & I, and my
-      parents. Brunch will likely not last three hours, but we have it reserved that
-      long if it does"
+      target='_blank'>here</a>. It's going to be <em>good</em>. We've elected not
+      to do too many toasts or speeches because it can unintentionally drag on, SO
+      the only speeches will be made by the maid-of-honor, best man, Callie & I, and
+      my parents. Brunch will likely not last three hours, but we have it reserved
+      that long if it does"
     - "<strong>Saturday 5/19 after 2p</strong><br>No plans! Because we're doing brunch
       and the ceremony isn't until Sunday night, we have the rest of Saturday open.
       Callie and I are grabbing dinner around 7 and we'll be out until probably 10
@@ -86,4 +86,4 @@ General:
 
 Ideally, I'd love for everyone to have their tuxes picked up before the end of Friday the 18<sup>th</sup> (unless Men's Wearhouse has told you otherwise…) They should be paid for at that point, and I will reimburse you for the $20 you probably had to put down for measurements.
 
-Southern Hills can be confusing to get around if you haven't been before or if you haven't been in a long time. [Here is a map](/uploads/SouthernHills-narrow.png) of the clubhouse from above that will hopefully help you find your way around if you're on your own. If you're not sure where to actually enter the country club property, [this image](/uploads/SouthernHills-wide.png) should help. Feel free to pass these images along if anyone asks you for help, too.
+Southern Hills can be confusing to get around if you haven't been before or if you haven't been in a long time. [Here is a map](/uploads/SouthernHills-narrow.png) of the clubhouse from above that will hopefully help you find your way around if you're on your own. Just remember &ndash; enter from 61<sup>st</sup> street at the gate. If you're not sure where that actually is on the property, [this image](/uploads/SouthernHills-wide.png) should help. There will be a gate attendant and you can just tell him you're there for the Turner-Standridge wedding reception. Feel free to pass these images along if anyone asks you for help, too.
