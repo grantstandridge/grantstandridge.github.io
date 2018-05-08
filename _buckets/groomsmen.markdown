@@ -55,16 +55,22 @@ General:
       bacon & eggs, or whatever – would be fun. I'll probably eat only breakfast until
       the reception later in the evening because there will be <em>so much</em> food
       there"
-    - "<strong>Sunday 5/20 noon</strong><br>Let's plan on being at my house by this
-      time so we can get ready without having to rush around. &ldquo;Getting ready&rdquo;
-      shouldn't take that long but that should give us more than enough time…"
-    - "<strong>Sunday 5/20 2p</strong><br>We'll leave as a group from my house and
-      go to Southern Hills. It would be ideal if me, Brandon, and Jentre drove, and
-      we all carpooled together because the other dudes will have wives who (I think?)
-      will be driving themselves. The reason we're driving to Southern Hills is so
-      at the end of the night your cars are there instead of the chapel. Once we seven
-      get to the country club around 2:15 - 2:30, we'll have to get a couple of Ubers
-      to take us to the chapel"
+    - "<strong>Sunday 5/20 noon</strong><br>Let's plan on being at my house no later
+      than this time so we can get ready without having to rush around. &ldquo;Getting
+      ready&rdquo; shouldn't take that long but that should give us more than enough
+      time…"
+    - "<strong>Sunday 5/20 1p</strong><br>I will have to drive to the hotel and drop
+      Callie's and my bags off for the honeymoon so that we're not having to worry
+      about those at the end of the night"
+    - <strong>Sunday 5/20 1:30p</strong><br>We'll leave as a group from my house and
+      go to Southern Hills. It would be ideal if five of us—Asher (w/my car), Jentre,
+      Brandon, Blake and I (w/Callie's car)—drove and all carpooled together. Then,
+      When we get to <abbr title="Southern Hills Country Club">SHCC</abbr> and park,
+      myself and Blake will drive the seven of us <em>back to my house</em>. From
+      my house, we'll need two Ubers to take us to the Chapel. The reason we're driving
+      to Southern Hills and back to my house is so at the end of the night Jentre's,
+      Brandon's, and Asher's cars are there instead of the chapel. It's confusing
+      but it will work. And Ubering from SHCC isn't an option…
     - "<strong>Sunday 5/20 3p</strong><br>The idea is for all of us to be at the chapel
       no later than this time. We have a room (small) to hang out in until wedding
       party pictures"
