@@ -41,16 +41,12 @@ General:
       It's a little more than 15 minutes from midtown, in north Broken Arrow"
     - "<strong>Saturday 5/19 11a - 2p</strong><br>Rehearsal Brunch @ 624 Kitchen in
       downtown! Brunch buffet menu can be found <a href='/uploads/menu--buffet.jpg'
-      target='_blank'>here</a>. It's going to be <em>good</em>. We've elected not
-      to do too many toasts or speeches because it can unintentionally drag on, SO
-      the only speeches will be made by the maid-of-honor, best man, Callie & I, and
-      my parents. Brunch will likely not last three hours, but we have it reserved
-      that long if it does"
+      target='_blank'>here</a>. It's going to be <em>good</em>. The order of events
+      for the brunch can be found <a href='/rehearsal-brunch'>here</a>"
     - "<strong>Saturday 5/19 after 2p</strong><br>No plans! Because we're doing brunch
       and the ceremony isn't until Sunday night, we have the rest of Saturday open.
       Callie and I are grabbing dinner around 7 and we'll be out until probably 10
-      but other than that, I'm not obligated to anything else, and I'd be down for
-      chilling out, doing something fun, or whatever"
+      but other than that, I'm not obligated to anything else"
     - "<strong>Sunday 5/20 10a</strong><br>I'm thinking breakfast – be it donuts,
       bacon & eggs, or whatever – would be fun. I'll probably eat only breakfast until
       the reception later in the evening because there will be <em>so much</em> food
@@ -58,22 +54,18 @@ General:
     - "<strong>Sunday 5/20 noon</strong><br>Let's plan on being at my house no later
       than this time so we can get ready without having to rush around. &ldquo;Getting
       ready&rdquo; shouldn't take that long but that should give us more than enough
-      time…"
-    - "<strong>Sunday 5/20 1p</strong><br>I will have to drive to the hotel and drop
-      Callie's and my bags off for the honeymoon so that we're not having to worry
-      about those at the end of the night"
-    - <strong>Sunday 5/20 1:30p</strong><br>We'll leave as a group from my house and
-      go to Southern Hills. It would be ideal if five of us—Asher (w/my car), Jentre,
-      Brandon, Blake and I (w/Callie's car)—drove and all carpooled together. Then,
-      When we get to <abbr title="Southern Hills Country Club">SHCC</abbr> and park,
-      myself and Blake will drive the seven of us <em>back to my house</em>. From
-      my house, we'll need two Ubers to take us to the Chapel. The reason we're driving
-      to Southern Hills and back to my house is so at the end of the night Jentre's,
-      Brandon's, and Asher's cars are there instead of the chapel. It's confusing
-      but it will work. And Ubering from SHCC isn't an option…
+      time… Feel free to arrive already dressed and ready if you'd like, too"
+    - "<strong>Sunday 5/20 1:15p</strong><br>We'll leave as a group from my house
+      and go to Southern Hills. I know a few guys will be driving <strong>themselves</strong>
+      home from the reception and so somehow, we need to get those guys' cars to Southern
+      Hills. However, we can't easily get from Southern Hills to the Chapel because
+      Uber won't get past the gate. So after we take the solo guys' cars to Southern
+      Hills, we'll need to get everyone back to my house. From my house, we'll need
+      two Ubers to take us to the Chapel. It's a little confusing but it will work"
     - "<strong>Sunday 5/20 3p</strong><br>The idea is for all of us to be at the chapel
-      no later than this time. We have a room (small) to hang out in until wedding
-      party pictures"
+      no later than this time. This would mean leaving (in Ubers) no later than 2:15
+      or so from my house. We have a (small) room to hang out in until wedding party
+      pictures"
     - "<strong>Sunday 5/20 3:30p</strong><br>Callie's and my first look outside the
       chapel"
     - "<strong>Sunday 5/20 3:40p</strong><br>Wedding party (only) takes pictures until
