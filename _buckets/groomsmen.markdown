@@ -41,11 +41,8 @@ General:
       It's a little more than 15 minutes from midtown, in north Broken Arrow"
     - "<strong>Saturday 5/19 11a - 2p</strong><br>Rehearsal Brunch @ 624 Kitchen in
       downtown! Brunch buffet menu can be found <a href='/uploads/menu--buffet.jpg'
-      target='_blank'>here</a>. It's going to be <em>good</em>. We've elected not
-      to do too many toasts or speeches because it can unintentionally drag on, SO
-      the only speeches will be made by the maid-of-honor, best man, Callie & I, and
-      my parents. Brunch will likely not last three hours, but we have it reserved
-      that long if it does"
+      target='_blank'>here</a>. It's going to be <em>good</em>. The order of events
+      for the brunch can be found <a href='/rehearsal-brunch'>here</a>"
     - "<strong>Saturday 5/19 after 2p</strong><br>No plans! Because we're doing brunch
       and the ceremony isn't until Sunday night, we have the rest of Saturday open.
       Callie and I are grabbing dinner around 7 and we'll be out until probably 10
